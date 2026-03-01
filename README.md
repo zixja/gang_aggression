@@ -160,7 +160,7 @@ Increasing `TickRate` to `1000` reduces CPU further with minimal difference to r
 
 ---
 
-## 🐛 Bug Fixes vs. ChatGPT Original
+## 🐛 Bug Fixes
 
 For transparency, here are the issues that were present in the original generated script and what was done to fix them:
 
