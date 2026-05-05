@@ -1,4 +1,4 @@
-# 🔫 gang_aggression
+# 🔫 gang_aggression WIP
 
 **Lightweight standalone FiveM resource that makes gang NPCs react with real hostility when threatened.**
 
